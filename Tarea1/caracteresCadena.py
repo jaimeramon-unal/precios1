@@ -2,7 +2,7 @@
 # Solicitar al usuario que ingrese una palabra
 palabra = input("Introduce una palabra: ")
 
-# Contador de consonantes
+# Contador de consonantes, la funcion lower convierte los caracteres a minusculas
 contador_consonantes = 0
 
 if len(palabra) > 0:

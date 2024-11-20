@@ -1,6 +1,6 @@
 ##Autor Jaime Ramon
-# Solicitar al usuario que ingrese una cadena
-palabra = input("Introduce una cadena: ")
+# Solicitar al usuario que ingrese una palabra
+palabra = input("Introduce una palabra: ")
 
 es_todo_letra = True
 

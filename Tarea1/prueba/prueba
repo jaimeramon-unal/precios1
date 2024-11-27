@@ -1,3 +1,0 @@
-edad = 17
-if edad == 17:
-    print("Es la edad correcta")
